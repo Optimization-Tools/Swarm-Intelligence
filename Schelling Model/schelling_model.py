@@ -1,7 +1,9 @@
-# This is a basic implementation of Schelling Model in Python without
-# using any classes. Future implementation can be done with classes,
-# however the main idea here is to show the
-
+#########################################################################
+# This is a basic implementation of Schelling Model in Python without	#
+# using any classes. Future implementations can be done with classes,	#
+# however the main idea here is to explain the phenomenon of homophily	#
+# in society with the help of Schelling's Segregration Model			#
+#########################################################################
 
 import numpy as np
 import matplotlib.pyplot as plt
